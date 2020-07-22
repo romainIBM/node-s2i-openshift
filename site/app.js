@@ -56,7 +56,7 @@ app.get('/info', function(req, res) {
         "age": 38,
         "gender": "male",
         "street": "34 Main Street",
-        "city": "Toronto",
+        "city": "Montpellier",
         "zipcode": "M5H 1T1"
       },
       "medications": ["Metoprolol", "ACE inhibitors", "Vitamin D"],
